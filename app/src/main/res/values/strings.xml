@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareLink</string>
+    <string name="processing_shared_link">Processing shared link...</string>
+</resources>
